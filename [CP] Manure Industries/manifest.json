@@ -1,0 +1,17 @@
+{
+    "Name": "[CP] Manure Industries Unofficial",
+    "Author": "GustavoSouza1997",
+    "Version": "1.0.0",
+    "Description": "Add Compost Bins for Fertilizers, Retaining Soils and Speed-Gros when placed inside Barns and Coops.",
+    "UniqueID": "GustavoSouza1997.ManureIndustries",
+    "UpdateKeys": ["Nexus:23438"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+    "Dependencies": [
+        {
+            "UniqueID": "DIGUS.MailFrameworkMod",
+            "MinimumVersion": "1.16.1"
+        }
+    ]
+}   

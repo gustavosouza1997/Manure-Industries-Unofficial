@@ -1,0 +1,20 @@
+[
+    {
+		"Id": "GustavoSouza1997.ManureIndustries_Deluxe_Fertilizer_Compost_Bin_Letter",
+		"Recipe": "GustavoSouza1997.ManureIndustries_Deluxe_Fertilizer_Compost_Bin",
+        "RecipeKnown": ["Deluxe Fertilizer"],
+		"AutoOpen": true
+	},
+    {
+		"Id": "GustavoSouza1997.ManureIndustries_Deluxe_Retaining_Soil_Compost_Bin_Letter",
+		"Recipe": "GustavoSouza1997.ManureIndustries_Deluxe_Retaining_Soil_Compost_Bin",
+        "RecipeKnown": ["Deluxe Retaining Soil"],
+		"AutoOpen": true
+	},
+    {
+		"Id": "GustavoSouza1997.ManureIndustries_Hyper_Speed_Gro_Compost_Bin_Letter",
+		"Recipe": "GustavoSouza1997.ManureIndustries_Hyper_Speed_Gro_Compost_Bin",
+        "RecipeKnown": ["Hyper Speed-Gro"],
+		"AutoOpen": true
+	}    
+]

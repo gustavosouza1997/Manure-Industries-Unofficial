@@ -1,0 +1,21 @@
+{
+    "Changes": [  
+        {
+            "LogName": "Crafting Recipes",
+            "Action": "EditData",
+            "Target": "Data/CraftingRecipes",
+            "Entries": {
+               "{{ModId}}_Basic_Fertilizer_Compost_Bin": "787 5 771 100 92 100/Home/{{ModId}}_Basic_Fertilizer_Compost_Bin/true/Farming 4/{{i18n: MI_Basic_Fertilizer_Compost_Bin_Name}}",
+               "{{ModId}}_Quality_Fertilizer_Compost_Bin": "787 10 153 100 92 100/Home/{{ModId}}_Quality_Fertilizer_Compost_Bin/true/Farming 10/{{i18n: MI_Quality_Fertilizer_Compost_Bin_Name}}",
+               "{{ModId}}_Deluxe_Fertilizer_Compost_Bin": "787 10 910 10 92 100/Home/{{ModId}}_Deluxe_Fertilizer_Compost_Bin/true/none/{{i18n: MI_Deluxe_Fertilizer_Compost_Bin_Name}}",
+               "{{ModId}}_Basic_Retaining_Soil_Compost_Bin": "787 5 390 100 330 100/Home/{{ModId}}_Basic_Retaining_Soil_Compost_Bin/true/Farming 5/{{i18n: MI_Basic_Retaining_Soil_Compost_Bin_Name}}",
+               "{{ModId}}_Quality_Retaining_Soil_Compost_Bin": "787 10 330 100 881 100/Home/{{ModId}}_Quality_Retaining_Soil_Compost_Bin/true/Farming 8/{{i18n: MI_Quality_Retaining_Soil_Compost_Bin_Name}}",
+               "{{ModId}}_Deluxe_Retaining_Soil_Compost_Bin": "787 10 910 10 848 100/Home/{{ModId}}_Deluxe_Retaining_Soil_Compost_Bin/true/none/{{i18n: MI_Deluxe_Retaining_Soil_Compost_Bin_Name}}",
+               "{{ModId}}_Speed_Gro_Compost_Bin": "787 10 726 10 372 10/Home/{{ModId}}_Speed_Gro_Compost_Bin/true/Farming 4/{{i18n: MI_Speed_Gro_Compost_Bin_Name}}",
+               "{{ModId}}_Deluxe_Speed_Gro_Compost_Bin": "787 10 725 20 593 50/Home/{{ModId}}_Deluxe_Speed_Gro_Compost_Bin/true/Farming 9/{{i18n: MI_Deluxe_Speed_Gro_Compost_Bin_Name}}",
+               "{{ModId}}_Hyper_Speed_Gro_Compost_Bin": "787 10 910 20 768 100/Home/{{ModId}}_Hyper_Speed_Gro_Compost_Bin/true/none/{{i18n: MI_Hyper_Speed_Gro_Compost_Bin_Name}}",
+               "{{ModId}}_Tree_Fertilizer_Compost_Bin": "787 10 309 10 311 10 310 10 292 10 881 50/Home/{{ModId}}_Tree_Fertilizer_Compost_Bin/true/Foraging 8/{{i18n: MI_Tree_Fertilizer_Compost_Bin_Name}}"
+            }
+        }
+    ]
+}

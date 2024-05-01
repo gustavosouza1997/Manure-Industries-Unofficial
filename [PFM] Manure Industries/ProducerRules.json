@@ -1,0 +1,72 @@
+﻿[
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Basic_Fertilizer_Compost_Bin",
+		"MinutesUntilReady": 240,
+		"OutputIdentifier": "(O)368", // Basic Fertilizer
+		"OutputStack": 1,
+		"OutputMaxStack": 5
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Quality_Fertilizer_Compost_Bin",
+		"MinutesUntilReady": 360,
+		"OutputIdentifier": "(O)369", // Quality Fertilizer
+		"OutputStack": 1,
+		"OutputMaxStack": 5
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Deluxe_Fertilizer_Compost_Bin",
+		"MinutesUntilReady": 480,
+		"OutputIdentifier": "(O)919", // Deluxe Fertilizer
+		"OutputStack": 1,
+		"OutputMaxStack": 5
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Basic_Retaining_Soil_Compost_Bin",
+		"MinutesUntilReady": 240,
+		"OutputIdentifier": "(O)370", // Basic Retaining Soil
+		"OutputStack": 1,
+		"OutputMaxStack": 5
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Quality_Retaining_Soil_Compost_Bin",
+		"MinutesUntilReady": 360,
+		"OutputIdentifier": "(O)371", // Quality Retaining Soil
+		"OutputStack": 1,
+		"OutputMaxStack": 5
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Deluxe_Retaining_Soil_Compost_Bin",
+		"MinutesUntilReady": 480,
+		"OutputIdentifier": "(O)920", // Deluxe Retaining Soil
+		"OutputStack": 1,
+		"OutputMaxStack": 5
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Speed_Gro_Compost_Bin",
+		"MinutesUntilReady": 240,
+		"OutputIdentifier": "(O)465", // Speed-Gro
+		"OutputStack": 1,
+		"OutputMaxStack": 5
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Deluxe_Speed_Gro_Compost_Bin",
+		"MinutesUntilReady": 360,
+		"OutputIdentifier": "(O)466", // Deluxe Speed-Gro
+		"OutputStack": 1,
+		"OutputMaxStack": 5
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Hyper_Speed_Gro_Compost_Bin",
+		"MinutesUntilReady": 480,
+		"OutputIdentifier": "(O)918", // Hyper Speed-Gro
+		"OutputStack": 1,
+		"OutputMaxStack": 5
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Tree_Fertilizer_Compost_Bin",
+		"MinutesUntilReady": 360,
+		"OutputIdentifier": "(O)805", // Tree Fertilizer
+		"OutputStack": 1,
+		"OutputMaxStack": 5
+	}
+]

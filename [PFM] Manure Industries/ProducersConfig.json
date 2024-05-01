@@ -1,0 +1,142 @@
+﻿[
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Basic_Fertilizer_Compost_Bin",
+		"AlternateFrameProducing": true,
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"AllowFairyDust": false,
+		"NoInputStartMode": "Placement",
+		"WorkingLocation": [ "Coop", "Big Coop", "Deluxe Coop", "Barn", "Big Barn", "Deluxe Barn" ],
+		"WorkingOutdoors": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [ 0, 1, 2 ],
+			"FrameInterval": 10			
+		}
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Quality_Fertilizer_Compost_Bin",
+		"AlternateFrameProducing": true,
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"AllowFairyDust": false,
+		"NoInputStartMode": "Placement",
+		"WorkingLocation": [ "Big Coop", "Deluxe Coop", "Big Barn", "Deluxe Barn" ],
+		"WorkingOutdoors": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [ 0, 1, 2 ],
+			"FrameInterval": 10			
+		}
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Deluxe_Fertilizer_Compost_Bin",
+		"AlternateFrameProducing": true,
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"AllowFairyDust": false,
+		"NoInputStartMode": "Placement",
+		"WorkingLocation": [ "Deluxe Coop", "Deluxe Barn" ],
+		"WorkingOutdoors": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [ 0, 1, 2 ],
+			"FrameInterval": 10			
+		}
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Basic_Retaining_Soil_Compost_Bin",
+		"AlternateFrameProducing": true,
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"AllowFairyDust": false,
+		"NoInputStartMode": "Placement",
+		"WorkingLocation": [ "Coop", "Big Coop", "Deluxe Coop", "Barn", "Big Barn", "Deluxe Barn" ],
+		"WorkingOutdoors": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [ 0, 1, 2 ],
+			"FrameInterval": 10			
+		}
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Quality_Retaining_Soil_Compost_Bin",
+		"AlternateFrameProducing": true,
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"AllowFairyDust": false,
+		"NoInputStartMode": "Placement",
+		"WorkingLocation": [ "Big Coop", "Deluxe Coop", "Big Barn", "Deluxe Barn" ],
+		"WorkingOutdoors": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [ 0, 1, 2 ],
+			"FrameInterval": 10			
+		}
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Deluxe_Retaining_Soil_Compost_Bin",
+		"AlternateFrameProducing": true,
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"AllowFairyDust": false,
+		"NoInputStartMode": "Placement",
+		"WorkingLocation": [ "Deluxe Coop", "Deluxe Barn" ],
+		"WorkingOutdoors": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [ 0, 1, 2 ],
+			"FrameInterval": 10			
+		}
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Speed_Gro_Compost_Bin",
+		"AlternateFrameProducing": true,
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"AllowFairyDust": false,
+		"NoInputStartMode": "Placement",
+		"WorkingLocation": [ "Coop", "Big Coop", "Deluxe Coop", "Barn", "Big Barn", "Deluxe Barn" ],
+		"WorkingOutdoors": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [ 0, 1, 2 ],
+			"FrameInterval": 10			
+		}
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Deluxe_Speed_Gro_Compost_Bin",
+		"AlternateFrameProducing": true,
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"AllowFairyDust": false,
+		"NoInputStartMode": "Placement",
+		"WorkingLocation": [ "Big Coop", "Deluxe Coop", "Big Barn", "Deluxe Barn" ],
+		"WorkingOutdoors": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [ 0, 1, 2 ],
+			"FrameInterval": 10			
+		}
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Hyper_Speed_Gro_Compost_Bin",
+		"AlternateFrameProducing": true,
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"AllowFairyDust": false,
+		"NoInputStartMode": "Placement",
+		"WorkingLocation": [ "Deluxe Coop", "Deluxe Barn" ],
+		"WorkingOutdoors": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [ 0, 1, 2 ],
+			"FrameInterval": 10			
+		}
+	},
+	{
+		"ProducerQualifiedItemId": "(BC)GustavoSouza1997.ManureIndustries_Tree_Fertilizer_Compost_Bin",
+		"AlternateFrameProducing": true,
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"AllowFairyDust": false,
+		"NoInputStartMode": "Placement",
+		"WorkingLocation": [ "Big Coop", "Deluxe Coop", "Big Barn", "Deluxe Barn" ],
+		"WorkingOutdoors": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [ 0, 1, 2 ],
+			"FrameInterval": 10			
+		}
+	}
+]

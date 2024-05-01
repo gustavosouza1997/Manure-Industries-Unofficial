@@ -1,0 +1,166 @@
+{
+    "Changes": [  
+        {
+			"Action": "Load",
+			"Target": "Mods/{{ModId}}/MI_Machines",
+			"FromFile": "assets/compost_bins.png"
+		},
+
+        {
+			"LogName": "Compost Bin BigCraftables Edits",
+			"Action": "EditData",
+			"Target": "Data/BigCraftables",
+			"Entries": {
+				"{{ModId}}_Basic_Fertilizer_Compost_Bin": {
+					"Name": "{{ModId}}_Basic_Fertilizer_Compost_Bin",
+					"DisplayName": "{{i18n: MI_Basic_Fertilizer_Compost_Bin_Name}}",
+					"Description": "{{i18n: MI_Basic_Fertilizer_Compost_Bin_Description}}",
+					"Price": 10000,
+					"Fragility": 0,
+					"CanBePlacedOutdoors": true,
+					"CanBePlacedIndoors": true,
+					"IsLamp": true,
+					"Texture": "Mods/{{ModId}}/MI_Machines",
+                    "SpriteIndex": 0,
+                    "ContextTags": null,
+					"CustomFields": null
+				},
+
+				"{{ModId}}_Quality_Fertilizer_Compost_Bin": {
+					"Name": "{{ModId}}_Quality_Fertilizer_Compost_Bin",
+					"DisplayName": "{{i18n: MI_Quality_Fertilizer_Compost_Bin_Name}}",
+					"Description": "{{i18n: MI_Quality_Fertilizer_Compost_Bin_Description}}",
+					"Price": 15000,
+					"Fragility": 0,
+					"CanBePlacedOutdoors": true,
+					"CanBePlacedIndoors": true,
+					"IsLamp": true,
+					"Texture": "Mods/{{ModId}}/MI_Machines",
+                    "SpriteIndex": 3,
+                    "ContextTags": null,
+					"CustomFields": null
+				},
+
+				"{{ModId}}_Deluxe_Fertilizer_Compost_Bin": {
+					"Name": "{{ModId}}_Deluxe_Fertilizer_Compost_Bin",
+					"DisplayName": "{{i18n: MI_Deluxe_Fertilizer_Compost_Bin_Name}}",
+					"Description": "{{i18n: MI_Deluxe_Fertilizer_Compost_Bin_Description}}",
+					"Price": 20000,
+					"Fragility": 0,
+					"CanBePlacedOutdoors": true,
+					"CanBePlacedIndoors": true,
+					"IsLamp": true,
+					"Texture": "Mods/{{ModId}}/MI_Machines",
+                    "SpriteIndex": 6,
+                    "ContextTags": null,
+					"CustomFields": null
+				},
+
+				"{{ModId}}_Basic_Retaining_Soil_Compost_Bin": {
+					"Name": "{{ModId}}_Basic_Retaining_Soil_Compost_Bin",
+					"DisplayName": "{{i18n: MI_Basic_Retaining_Soil_Compost_Bin_Name}}",
+					"Description": "{{i18n: MI_Basic_Retaining_Soil_Compost_Bin_Description}}",
+					"Price": 10000,
+					"Fragility": 0,
+					"CanBePlacedOutdoors": true,
+					"CanBePlacedIndoors": true,
+					"IsLamp": true,
+					"Texture": "Mods/{{ModId}}/MI_Machines",
+                    "SpriteIndex": 9,
+                    "ContextTags": null,
+					"CustomFields": null
+				},
+
+				"{{ModId}}_Quality_Retaining_Soil_Compost_Bin": {
+					"Name": "{{ModId}}_Quality_Retaining_Soil_Compost_Bin",
+					"DisplayName": "{{i18n: MI_Quality_Retaining_Soil_Compost_Bin_Name}}",
+					"Description": "{{i18n: MI_Quality_Retaining_Soil_Compost_Bin_Description}}",
+					"Price": 15000,
+					"Fragility": 0,
+					"CanBePlacedOutdoors": true,
+					"CanBePlacedIndoors": true,
+					"IsLamp": true,
+					"Texture": "Mods/{{ModId}}/MI_Machines",
+                    "SpriteIndex": 12,
+                    "ContextTags": null,
+					"CustomFields": null
+				},
+
+				"{{ModId}}_Deluxe_Retaining_Soil_Compost_Bin": {
+					"Name": "{{ModId}}_Deluxe_Retaining_Soil_Compost_Bin",
+					"DisplayName": "{{i18n: MI_Deluxe_Retaining_Soil_Compost_Bin_Name}}",
+					"Description": "{{i18n: MI_Deluxe_Retaining_Soil_Compost_Bin_Description}}",
+					"Price": 20000,
+					"Fragility": 0,
+					"CanBePlacedOutdoors": true,
+					"CanBePlacedIndoors": true,
+					"IsLamp": true,
+					"Texture": "Mods/{{ModId}}/MI_Machines",
+                    "SpriteIndex": 15,
+                    "ContextTags": null,
+					"CustomFields": null
+				},
+
+				"{{ModId}}_Speed_Gro_Compost_Bin": {
+					"Name": "{{ModId}}_Speed_Gro_Compost_Bin",
+					"DisplayName": "{{i18n: MI_Speed_Gro_Compost_Bin_Name}}",
+					"Description": "{{i18n: MI_Speed_Gro_Compost_Bin_Description}}",
+					"Price": 10000,
+					"Fragility": 0,
+					"CanBePlacedOutdoors": true,
+					"CanBePlacedIndoors": true,
+					"IsLamp": true,
+					"Texture": "Mods/{{ModId}}/MI_Machines",
+                    "SpriteIndex": 18,
+                    "ContextTags": null,
+					"CustomFields": null
+				},
+
+				"{{ModId}}_Deluxe_Speed_Gro_Compost_Bin": {
+					"Name": "{{ModId}}_Deluxe_Speed_Gro_Compost_Bin",
+					"DisplayName": "{{i18n: MI_Deluxe_Speed_Gro_Compost_Bin_Name}}",
+					"Description": "{{i18n: MI_Deluxe_Speed_Gro_Compost_Bin_Description}}",
+					"Price": 15000,
+					"Fragility": 0,
+					"CanBePlacedOutdoors": true,
+					"CanBePlacedIndoors": true,
+					"IsLamp": true,
+					"Texture": "Mods/{{ModId}}/MI_Machines",
+                    "SpriteIndex": 21,
+                    "ContextTags": null,
+					"CustomFields": null
+				},
+
+				"{{ModId}}_Hyper_Speed_Gro_Compost_Bin": {
+					"Name": "{{ModId}}_Hyper_Speed_Gro_Compost_Bin",
+					"DisplayName": "{{i18n: MI_Hyper_Speed_Gro_Compost_Bin_Name}}",
+					"Description": "{{i18n: MI_Hyper_Speed_Gro_Compost_Bin_Description}}",
+					"Price": 20000,
+					"Fragility": 0,
+					"CanBePlacedOutdoors": true,
+					"CanBePlacedIndoors": true,
+					"IsLamp": true,
+					"Texture": "Mods/{{ModId}}/MI_Machines",
+                    "SpriteIndex": 24,
+                    "ContextTags": null,
+					"CustomFields": null
+				},
+
+				"{{ModId}}_Tree_Fertilizer_Compost_Bin": {
+					"Name": "{{ModId}}_Tree_Fertilizer_Compost_Bin",
+					"DisplayName": "{{i18n: MI_Tree_Fertilizer_Compost_Bin_Name}}",
+					"Description": "{{i18n: MI_Tree_Fertilizer_Compost_Bin_Description}}",
+					"Price": 15000,
+					"Fragility": 0,
+					"CanBePlacedOutdoors": true,
+					"CanBePlacedIndoors": true,
+					"IsLamp": true,
+					"Texture": "Mods/{{ModId}}/MI_Machines",
+                    "SpriteIndex": 27,
+                    "ContextTags": null,
+					"CustomFields": null
+				}
+            }
+        }
+    ]
+}
